@@ -1,0 +1,91 @@
+
+CUSTOMER RETENTION & CHURN ANALYSIS
+===================================
+
+1. PROJECT OVERVIEW
+-------------------
+This analysis examines customer retention and churn patterns for a
+subscription-based business. The analysis focuses on customer behavior,
+subscription plans, acquisition channels, tenure, payment methods,
+satisfaction, usage, churn reasons, and estimated customer lifetime value.
+
+The dataset contains 2,500 customer records.
+
+2. KEY PERFORMANCE INDICATORS
+-----------------------------
+Total Customers: 2,500
+Active Customers: 1,681
+Churned Customers: 819
+Retention Rate: 67.24%
+Churn Rate: 32.76%
+Average Customer Tenure: 22.59 months
+Average Estimated Lifetime Value: 842.90
+
+3. CHURN PATTERNS
+-----------------
+The subscription plan with the highest observed churn rate is:
+Basic (37.52%).
+
+The acquisition channel with the highest observed churn rate is:
+Paid Ads (40.43%).
+
+The most frequently reported churn reason is:
+Price Too High.
+
+4. CUSTOMER LIFETIME TRENDS
+---------------------------
+Average customer tenure is 22.59 months.
+
+Customers on different subscription plans show different estimated
+lifetime values, indicating that subscription level and customer longevity
+can influence overall customer value.
+
+5. RETENTION DRIVERS
+--------------------
+Average monthly usage among active customers:
+26.77 hours.
+
+Average monthly usage among churned customers:
+24.47 hours.
+
+Average satisfaction among active customers:
+4.05/5.
+
+Average satisfaction among churned customers:
+4.04/5.
+
+These measures can be used as practical indicators of engagement and
+customer experience when monitoring future churn risk.
+
+6. RECOMMENDATIONS
+------------------
+1. Introduce early-stage onboarding and engagement campaigns for new
+   customers, particularly during the first few months.
+
+2. Monitor customers with declining usage and proactively provide
+   product education, reminders, or personalized engagement.
+
+3. Investigate the most common churn reasons and address recurring
+   pricing, service, feature, payment, or competitive issues.
+
+4. Develop targeted retention campaigns for plans and acquisition
+   channels showing higher churn rates.
+
+5. Improve payment-failure recovery through reminders and alternative
+   payment options.
+
+6. Use satisfaction and usage indicators to identify customers who may
+   require proactive support.
+
+7. Track cohort retention regularly to measure whether new customer
+   onboarding and retention initiatives are improving over time.
+
+7. BUSINESS VALUE
+-----------------
+The analysis provides a structured view of customer churn, retention,
+customer lifetime trends, and potential retention drivers. These insights
+can support product, marketing, customer-success, and business teams in
+developing data-driven retention strategies.
+
+Note: The dataset used for this project is simulated for analytical and
+demonstration purposes.
